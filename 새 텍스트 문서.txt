@@ -1,0 +1,65 @@
+<img id= sky src="sq_sky.png">
+<img id= imgone src="sq1_cl.png">
+    <img id= imgtwo src="sq2_cl.png">
+    <img id= imgthree src="sq3_bd.png">
+    <img id= imgfour src="sq4_cl.png">
+    <img id= imgfive src="sq5_car_1.png"> 
+    <img id= imgfivetwo src="sq5_mood_2.png">
+    <img id= imgsix src="sq6_bd_.png">
+    <img id= imgseven src="sq7_bd.png">
+    <img id= imgeight src="sq8_bd.png">
+    <img id= imgnine src="sq9_truck.png">
+    <img id= imgten src="sq10_gr.png">
+    <img id= imgleven src="sq11_cl.png">
+    <img id= imgtwelve src="sq12_gs.png">
+    <img id= imgthirteen src="sq13_jh.png">
+    <img id= imgfourteen src="sq14_dt.png">
+    <img id= imgfifnteen src="sq15_dt">   
+
+    <img id = sol src="오른발.png">
+    <img id = soll src="왼발.png">
+
+한번씩 더 붙이기 3088짜리
+
+<img id= skycopy src="sq_sky.png">
+<img id= imgonecopy src="sq1_cl.png">
+    <img id= imgtwocopy src="sq2_cl.png">
+    <img id= imgthreecopy src="sq3_bd.png">
+    <img id= imgfourcopy src="sq4_cl.png">
+  <img id= imgtencopy src="sq10_gr.png">
+  <img id= imgtwelvecopy src="sq12_gs.png">
+    <img id= imgthirteencopy src="sq13_jh.png">
+    <img id= imgfourteencopy src="sq14_dt.png">
+
+
+///
+
+석탄채굴
+
+<img id= imgone src="sq4_1_back.png">
+    <img id= imgtwo src="sq4_2_gr.png">
+    <img id= imgthree src="sq4_3_house.png">
+    <img id= imgfour src="sq4_4_ship.png">
+    <img id= imgfive src="sq4_5_trail.png"> 
+    <img id= imgsix src="sq4_6_tower.png">
+    <img id= imgseven src="sq4_7_house.png">
+    <img id= imgeight src="sq4_8_panel.png">
+    <img id= imgeighttwo src="sq4_8_stair.png">
+    <img id= imgnine src="sq4_9_trash.png">
+    <img id= imgten src="sq4_10_sol1.png">
+    <img id= imgtentwo src="sq4_10_sol2.png">
+    <img id= imgeleven src="sq4_11_lighting.png">
+       
+
+    <img id = sol src="오른발.png">
+    <img id = soll src="왼발.png">
+
+
+스토리 링크: https://himpowerchikara.github.io/1210sstory/.story1fusion.html
+
+하와이링크:
+시가지링크:
+쉽링크:
+일본링크:
+일본밤링크:
+처형강링크:
